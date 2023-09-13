@@ -14,7 +14,6 @@ import com.company.bc2023.security.AuthoritiesConstants;
 import com.company.bc2023.service.UserService;
 import com.company.bc2023.service.dto.AdminUserDTO;
 import com.company.bc2023.service.dto.PasswordChangeDTO;
-import com.company.bc2023.service.dto.UserDTO;
 import com.company.bc2023.web.rest.vm.KeyAndPasswordVM;
 import com.company.bc2023.web.rest.vm.ManagedUserVM;
 import java.time.Instant;

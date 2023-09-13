@@ -1,6 +1,5 @@
 package com.company.bc2023;
 
-import com.company.bc2023.Bc2023App;
 import com.company.bc2023.config.AsyncSyncConfiguration;
 import com.company.bc2023.config.EmbeddedSQL;
 import java.lang.annotation.ElementType;
