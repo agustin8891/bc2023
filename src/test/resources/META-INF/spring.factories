@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = com.company.bc2023.\
+    config.SqlTestContainersSpringContextCustomizerFactory
